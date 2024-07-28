@@ -8,7 +8,7 @@ This is Rofiq Ahmad Personal Website, This website contains content such as:
 - Project page;
 - `Read.cv`.
 
-## Website Tech Stack:
+## Website Tech Stack
 
 - HTML;
 - CSS.
