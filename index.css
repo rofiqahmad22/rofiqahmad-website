@@ -19,6 +19,7 @@ body {
   max-width: 100%;
   color: #fff;
   padding: 5px 10rem;
+  box-shadow: 3px 3px 2px #808080;
 }
 
 a {
