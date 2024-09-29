@@ -41,7 +41,7 @@ ul {
   padding: 9px 15px;
   border-radius: 9%;
   border: none;
-  text-align: center;
+  align-items: center;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
